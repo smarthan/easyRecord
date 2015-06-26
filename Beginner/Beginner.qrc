@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/image">
+        <file alias="SETTING">IMG/sets.ico</file>
+        <file alias="EDITOR">IMG/editor.ico</file>
+        <file alias="CALM">IMG/Green.bmp</file>
+        <file alias="SX">IMG/setconnect.png</file>
+        <file alias="CON">IMG/connect.png</file>
+        <file alias="DISCON">IMG/disconnect.png</file>
+        <file alias="BK">IMG/break.jpg</file>
+        <file alias="TPC">IMG/TPClogo_Micro.png</file>
+    </qresource>
+    <qresource prefix="/language">
+        <file>en_US.qm</file>
+        <file>ja_JP.qm</file>
+        <file>zh_CN.qm</file>
+    </qresource>
+</RCC>
